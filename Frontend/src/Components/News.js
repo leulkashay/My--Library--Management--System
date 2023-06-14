@@ -33,26 +33,22 @@ function News() {
                     <div>
                         <div className='news-quiz-event'>
                             <p>Quiz-1</p>
-                            <p>Lorem Ipsum is simply dum                        </div>
+                        </div>
                         <div className='news-quiz-event'>
                             <p>Quiz-2</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            
                         </div>
                         <div className='news-quiz-event'>
                             <p>Quiz-3</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            
                         </div>
                         <div className='news-quiz-event'>
                             <p>Quiz-4</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            
                         </div>
                         <div className='news-quiz-event'>
                             <p>Quiz-5</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                        
                         </div>
                     </div>
                 </div>
