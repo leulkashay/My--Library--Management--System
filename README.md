@@ -40,6 +40,8 @@ Technologies
    
 contributing
 
+Screen shot
+
 Author
   -- leul kashay
   -- yismaw mulaw
