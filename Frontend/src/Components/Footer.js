@@ -14,10 +14,6 @@ function Footer() {
                     <div className="contact-details">
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
-                        <p>Government School</p>
-                        <p>Visakhapatnam-530041</p>
-                        <p>Andhra Pradesh</p>
-                        <p>India</p>
                         <p><b>Email:</b>example@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
@@ -31,18 +27,18 @@ function Footer() {
                         <h1>Librarian</h1>
                         <p>Name</p>
                         <p>Education</p>
-                        <p>Contact: +91 9123456787</p>
+                        <p>Contact: +251 0988656757</p>
                     </div>
                 </div>
                 <div className="contact-social" >
-                    <a href='#home' className='social-icon'><TwitterIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
-                    <a href='#home' className='social-icon'><LinkedInIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
-                    <a href='#home' className='social-icon'><TelegramIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
-                    <a href='#home' className='social-icon'><InstagramIcon style={{ fontSize: 40,color:"rgb(283,83,75)"}} /></a>
+                    <a href='#home' className='social-icon'><TwitterIcon style={{ fontSize: 40,color:"rgb(283,88,86)"}} /></a>
+                    <a href='#home' className='social-icon'><LinkedInIcon style={{ fontSize: 40,color:"rgb(283,88,86)"}} /></a>
+                    <a href='#home' className='social-icon'><TelegramIcon style={{ fontSize: 40,color:"rgb(283,88,86)"}} /></a>
+                    <a href='#home' className='social-icon'><InstagramIcon style={{ fontSize: 40,color:"rgb(283,88,86)"}} /></a>
                 </div>
             </div>
             <div className='copyright-details'>
-                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with ❤️ by Pranavdhar Reddy</span></p>
+                <p className='footer-copyright'>This is 2023 copyright all right reserved<br /><span>Designed by leul kashay and yismaw mulaw</span></p>
             </div>
         </div>
     )

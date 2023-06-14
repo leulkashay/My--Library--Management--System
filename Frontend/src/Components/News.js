@@ -11,29 +11,19 @@ function News() {
                     <h1 className='news-subtitle'>Competitions</h1>
                     <div>
                         <div className='news-competition-event'>
-                            <p>Competion-1</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            <p>Competion</p>
                         </div>
                         <div className='news-competition-event'>
-                            <p>Competion-2</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            <p>Competion</p>
                         </div>
                         <div className='news-competition-event'>
-                            <p>Competion-3</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            <p>Competion</p>
                         </div>
                         <div className='news-competition-event'>
                             <p>Competion-4</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
                         </div>
                         <div className='news-competition-event'>
-                            <p>Competion-5</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
+                            <p>Competion</p>
                         </div>
                     </div>
                 </div>
@@ -43,9 +33,7 @@ function News() {
                     <div>
                         <div className='news-quiz-event'>
                             <p>Quiz-1</p>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
-                                industry.</p>
-                        </div>
+                            <p>Lorem Ipsum is simply dum                        </div>
                         <div className='news-quiz-event'>
                             <p>Quiz-2</p>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting 
